@@ -1,4 +1,4 @@
 # Fractal-Animation
 An awesome fractal animation written in C++ using OpenGL
 
-[![Demo Video](Example/Fractal.png)](Example/Fractal.mp4)
+[![Demo Vid](Example/1.png)](Example/1.mp4)
